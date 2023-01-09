@@ -1,6 +1,6 @@
 //[https://brynaraffle.uc.r.appspot.com
 //export const HOST = 'http://localhost:8080/'
-export const HOST = 'https://brynaraffle.uc.r.appspot.com/'
+export const HOST = 'https://aesthetic-rush-374201.uc.r.appspot.com/'
 export const GET_PUBLISHABLE_KEY = 'getStripePublishableKey'
 export const CREATE_PAYMENT_INTENT = 'createPaymentIntent'
 export const CEHECK_FOR_RESERVED_TICKETS = "checkForReservedTickets"
